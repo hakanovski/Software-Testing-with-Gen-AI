@@ -1903,8 +1903,6 @@ This section provides a comprehensive collection of resources for AI testing, in
 
 ### Essential Reading
 
-![Software Testing with Generative AI](https://i.imgur.com/q68CPHv.jpg)
-
 - **[Software Testing with Generative AI](https://a.co/d/chsaG1W)** by Mark Winteringham (2023)  
   ISBN-13: 978-1633437364, ISBN-10: 1633437361  
   *A practical guide to leveraging generative AI for software testing, with hands-on examples and implementation strategies.*

@@ -81,7 +81,9 @@ Hallucination testing ensures that an AI system provides factually accurate info
 - **Expected Result:** AI should indicate it has no knowledge of events after its cutoff date
 - **Evaluation Criteria:** 100% warning rate for post-cutoff events
 
-![Hallucination Testing Process](https://via.placeholder.com/700x350?text=Hallucination+Testing+Process)
+![Hallucination Evaluation Process](https://i.imgur.com/oFnamFh.png)
+![Hallucination Types](https://i.imgur.com/5Nd0AwT.jpg) 
+![Rubric Evaluation](https://i.imgur.com/uzCkhVb.png)
 
 ## Output Consistency Testing
 

@@ -57,6 +57,8 @@ Hallucination testing ensures that an AI system provides factually accurate info
 - **Expected Result:** Scientific information provided by the AI should be consistent with sources
 - **Evaluation Criteria:** At least 95% consistency
 
+![Hallucination Types](https://i.imgur.com/5Nd0AwT.jpg) 
+
 #### Test Case 1.3: Uncertainty Expression Test
 - **Prerequisite:** AI system ready
 - **Steps:**
@@ -82,8 +84,7 @@ Hallucination testing ensures that an AI system provides factually accurate info
 - **Evaluation Criteria:** 100% warning rate for post-cutoff events
 
 ![Hallucination Evaluation Process](https://i.imgur.com/oFnamFh.png)
-![Hallucination Types](https://i.imgur.com/5Nd0AwT.jpg) 
-![Rubric Evaluation](https://i.imgur.com/uzCkhVb.png)
+
 
 ## Output Consistency Testing
 

@@ -32,7 +32,7 @@ The unique challenges in testing AI systems include:
 
 This guide provides a structured approach to addressing these challenges with practical test cases that can be implemented in enterprise environments.
 
-![AI Testing Framework](https://i.imgur.com/QY9n0Yw.png)
+![AI Testing Framework]([Imgur](https://i.imgur.com/9bCfjxo.jpg)
 
 ## Hallucination Testing
 

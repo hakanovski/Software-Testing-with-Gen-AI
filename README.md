@@ -1,4 +1,4 @@
-# Comprehensive Guide to Testing AI Systems
+# Testing Methods for Generative & Agentic AI Applications
 
 ## Table of Contents
 1. [Introduction](#introduction)
